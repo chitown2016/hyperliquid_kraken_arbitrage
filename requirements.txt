@@ -1,0 +1,9 @@
+ccxt
+pandas
+statsmodels
+python-telegram-bot==13.13
+python-dotenv
+hyperliquid-python-sdk
+dateparser
+ipykernel
+openpyxl
